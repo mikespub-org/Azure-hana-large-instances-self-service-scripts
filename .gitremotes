@@ -1,0 +1,3 @@
+[remote "upstream"]
+	url = https://github.com/Azure/hana-large-instances-self-service-scripts.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
